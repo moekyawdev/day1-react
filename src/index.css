@@ -48,3 +48,10 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+
+.loading {
+  position: relative;
+  top: 60px;
+  color: #f1356d;
+  font-size: large;
+}
